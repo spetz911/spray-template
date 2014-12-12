@@ -25,8 +25,7 @@ libraryDependencies += "io.spray" %%  "spray-json" % "1.3.1"
 
 libraryDependencies += "org.mongodb" %% "casbah" % "2.7.4"
 
-// "org.mongodb" %% "casbah" % "2.8.0-RC"
-
+libraryDependencies += "org.slf4j" % "slf4j-simple" % "1.6.4"
 
 Revolver.settings
 
